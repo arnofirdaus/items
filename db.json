@@ -1,65 +1,67 @@
-[
-	{
-		"id": 1,
-		"title": "Laptop Asus",
-		"price": 150000,
-		"images": "https://picsum.photos/200",
-		"variance": "electronic"
-	},
-	{
-		"id": 2,
-		"title": "Kripik Kentang",
-		"price": 17500,
-		"images": "https://picsum.photos/200",
-		"variance": "food"
-	},
-	{
-		"id": 3,
-		"title": "Kopi Arabika",
-		"price": 97500,
-		"images": "https://picsum.photos/200",
-		"variance": "food"
-	},
-	{
-		"id": 4,
-		"title": "Sepatu Adidas",
-		"price": 1075000,
-		"images": "https://picsum.photos/200",
-		"variance": "fashion"
-	},
-	{
-		"id": 5,
-		"title": "Sepatu Nike",
-		"price": 1975000,
-		"images": "https://picsum.photos/200",
-		"variance": "fashion"
-	},
-	{
-		"id": 6,
-		"title": "Kemeja flanel",
-		"price": 210000,
-		"images": "https://picsum.photos/200",
-		"variance": "fashion"
-	},
-	{
-		"id": 7,
-		"title": "Kaos polos",
-		"price": 50000,
-		"images": "https://picsum.photos/200",
-		"variance": "fashion"
-	},
-	{
-		"id": 8,
-		"title": "Mie instan",
-		"price": 12500,
-		"images": "https://picsum.photos/200",
-		"variance": "food"
-	},
-	{
-		"id": 9,
-		"title": "Minyak kelapa",
-		"price": 17500,
-		"images": "https://picsum.photos/200",
-		"variance": "food"
-	}
-]
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "Laptop Asus",
+			"price": 150000,
+			"images": "https://picsum.photos/200",
+			"variance": "electronic"
+		},
+		{
+			"id": 2,
+			"title": "Kripik Kentang",
+			"price": 17500,
+			"images": "https://picsum.photos/200",
+			"variance": "food"
+		},
+		{
+			"id": 3,
+			"title": "Kopi Arabika",
+			"price": 97500,
+			"images": "https://picsum.photos/200",
+			"variance": "food"
+		},
+		{
+			"id": 4,
+			"title": "Sepatu Adidas",
+			"price": 1075000,
+			"images": "https://picsum.photos/200",
+			"variance": "fashion"
+		},
+		{
+			"id": 5,
+			"title": "Sepatu Nike",
+			"price": 1975000,
+			"images": "https://picsum.photos/200",
+			"variance": "fashion"
+		},
+		{
+			"id": 6,
+			"title": "Kemeja flanel",
+			"price": 210000,
+			"images": "https://picsum.photos/200",
+			"variance": "fashion"
+		},
+		{
+			"id": 7,
+			"title": "Kaos polos",
+			"price": 50000,
+			"images": "https://picsum.photos/200",
+			"variance": "fashion"
+		},
+		{
+			"id": 8,
+			"title": "Mie instan",
+			"price": 12500,
+			"images": "https://picsum.photos/200",
+			"variance": "food"
+		},
+		{
+			"id": 9,
+			"title": "Minyak kelapa",
+			"price": 17500,
+			"images": "https://picsum.photos/200",
+			"variance": "food"
+		}
+	]
+}
